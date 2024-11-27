@@ -1,0 +1,14 @@
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\bin\Debug\net8.0\DES16Bits.exe
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\bin\Debug\net8.0\DES16Bits.deps.json
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\bin\Debug\net8.0\DES16Bits.runtimeconfig.json
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\bin\Debug\net8.0\DES16Bits.dll
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\bin\Debug\net8.0\DES16Bits.pdb
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.AssemblyInfoInputs.cache
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.AssemblyInfo.cs
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.csproj.CoreCompileInputs.cache
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.dll
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\refint\DES16Bits.dll
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.pdb
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\DES16Bits.genruntimeconfig.cache
+C:\Users\Seby\Desktop\DES16Bits\DES16Bits\obj\Debug\net8.0\ref\DES16Bits.dll
